@@ -9,6 +9,6 @@ The dashboard represents the Sales Analysis for a Pie Bakery. It includes variou
 * `Pie Flavour Demand`
 * `Year-wise Sales`
 
-🔗 **Link to Tableau Public** - [Bakery Sales Dashboard](https://public.tableau.com/app/profile/ashita.shetty7909/viz/BakerySalesDashboard_17119198345930/BakerySalesDashboard)
+🔗 **Link to Tableau Public** - [Bakery Sales Dashboard](https://public.tableau.com/app/profile/ashita.shetty7909/viz/PieBakerySalesAnalysis_17123604342750/BakerySalesDashboard)
 
   
