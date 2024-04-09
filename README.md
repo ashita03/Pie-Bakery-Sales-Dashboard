@@ -1,5 +1,14 @@
 # Pie-Bakery-Sales-Dashboard
 
+## Dataset
+
+The [Dataset](https://www.kaggle.com/datasets/modinatganiyu/pie-sales-analysis?resource=download) has been taken from Kaggle. It comprises multiple columns which include -
+
+![image](https://github.com/ashita03/Pie-Bakery-Sales-Dashboard/assets/66629830/5dedb7c4-d98b-493e-9ab5-fba0139eb2f5)
+
+
+
+
 ## About the dashboard
 
 The dashboard represents the Sales Analysis for a Pie Bakery. It includes various elements highlighting -
